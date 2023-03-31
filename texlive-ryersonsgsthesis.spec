@@ -1,6 +1,6 @@
 Name:		texlive-ryersonsgsthesis
 Version:	50119
-Release:	1
+Release:	2
 Summary:	Ryerson School of Graduate Studies thesis template
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryersonsgsthesis
