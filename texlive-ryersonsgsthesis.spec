@@ -3,7 +3,7 @@ Version:	50119
 Release:	2
 Summary:	Ryerson School of Graduate Studies thesis template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ryersonsgsthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ryersonsgsthesis
 License:	apache2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ryersonsgsthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ryersonsgsthesis.doc.r%{version}.tar.xz
